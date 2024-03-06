@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @KatyaO13
 - 👀 I’m interested in Software Security
-- 🌱 I’m currently learning LibAFL
+- 🌱 I’m currently learning LibAFL and Qemu-AFL
 - 💞️ I’m looking to collaborate on fuzzing projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
